@@ -25,8 +25,8 @@ box.forEach((boxs) =>  {
 
 function ShowWinner(winner){
     // Winnermsg.removeAttribute("id");
-    // Winnermsg.classList.remove("hide")
-    Winnermsg.style.display = "block";
+    Winnermsg.classList.remove("hide")
+    // Winnermsg.style.display = "block";
 
 }
 
